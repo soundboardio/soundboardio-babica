@@ -1,11 +1,11 @@
 {
-  "name": "Babica vs. Sapík",
-  "shortName": "Babica Sapík",
-  "description": "Mrkev, petržel, cerel.",
+  "name": "Jiří Babica",
+  "shortName": "Jiří Babica",
+  "description": "Tvrdý játro není tak dobrý jako měkký játro.",
   "story": [
-    "Jiří Babica a Jaroslav Sapík spolu vařili na TV Barrandov.",
-    "Jejich kulinářská show Babica vs. Sapík se vysílala o víkendech od září 2015 do roku 2016.",
-    "Oba prošli pražským hotelem Ambassador. Sapík to tam dotáhl na šéfkuchaře a od roku 1992 vede restauraci U Sapíků v Klokočné, Babica předtím vařil Babicovy dobroty na Nově.",
+    "Jiří Babica vařil v Babicových dobrotách na Nově a s Jaroslavem Sapíkem v pořadu Babica vs. Sapík na TV Barrandov.",
+    "Babicovy dobroty běžely v letech 2008–2014. Nejslavnější z nich je rada k houbové omáčce: kdo nemá žádné houby, ať tam nedává vůbec žádné houby. Podle Babici ji ale vytrhl střih z kontextu a „když nemáš kečup, dej tam hořčici“ prý nikdy neřekl.",
+    "Kulinářská show Babica vs. Sapík se vysílala o víkendech od září 2015 do roku 2016. Oba kuchaři prošli pražským hotelem Ambassador, Sapík to tam dotáhl na šéfkuchaře a od roku 1992 vede restauraci U Sapíků v Klokočné.",
     "Babica tvrdí, že červená cibule je fialová, a Sapík to po padesáti letech uznal."
   ],
   "author": {
@@ -16,16 +16,146 @@
   "color": "#C62828",
   "version": "1.0.0",
   "rootUrl": "sounds/",
+  "icons": [
+    {
+      "src": "/icons/og-v2.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icons/icon-v2-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-v2-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-v2-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
   "tiles": [
     {
-      "name": "Stáváme se amatéry",
-      "filename": "kdyz-prijdeme-domu.mp3",
-      "transcript": "Když přijdeme domů, i když jsme profesionálové, se stáváme amatéry."
+      "name": "Čimimuri",
+      "filename": "cimicuri.mp3",
+      "transcript": "A ty jsi to čimimuri, jo?"
     },
     {
       "name": "Mrkev, petržel, cerel",
       "filename": "mrkev-petrzel-cerel.mp3",
       "transcript": "Mrkev, petržel, cerel."
+    },
+    {
+      "name": "A to bude ratatule",
+      "filename": "ratatule.mp3",
+      "transcript": "Dneska si tady spolu připravíme francouzskou zeleninu, a to bude ratatule."
+    },
+    {
+      "name": "Tak tam nedávejte nic",
+      "filename": "nedavejte-tam-nic.mp3",
+      "transcript": "A když nebudete mít žádné houby, tak tam kupte si žampiony. A pak mě napadlo, když nebudete mít žádné houby, žampiony, tak tam nedávejte nic."
+    },
+    {
+      "name": "Nemáš kečup? Kdo to řekl?",
+      "filename": "kecup-kdo-to-rekl.mp3",
+      "transcript": "Až se stalo dneska, jako si lidi ze mě dělají srandu: „Když nemáš kečup, dej tam hořčici.“ No kdo to řekl?"
+    },
+    {
+      "name": "Tvrdý játro není tak dobrý",
+      "filename": "tvrdy-jatro.mp3",
+      "transcript": "Vůbec není kam pospíchat, tvrdý játro není tak dobrý jako měkký játro."
+    },
+    {
+      "name": "Smažíme, až je to smažený",
+      "filename": "smazime.mp3",
+      "transcript": "Já vždycky říkám, smažíme tak dlouho, až je to smažený."
+    },
+    {
+      "name": "Kološvárský zelí",
+      "filename": "kolosvarske-zeli.mp3",
+      "transcript": "Jmenuje se to kološvárský zelí, luxusní jídlo. Kološvárský zelí, známý hlavně na Kološvársku. Asi, já tam nebyl, ani nevím, jestli to existuje, ale bude to něco maďarskýho."
+    },
+    {
+      "name": "Houby, když jsou",
+      "filename": "kdyz-jsou-tak-jsou.mp3",
+      "transcript": "No tak když jsou, tak jsou. Když nejsou, tak nejsou."
+    },
+    {
+      "name": "Za prvé musím a za druhý chci",
+      "filename": "musim-a-chci.mp3",
+      "transcript": "Já teda určitě ochutnám, protože za prvé musím a za druhý chci."
+    },
+    {
+      "name": "Já budu mít dva",
+      "filename": "spizy.mp3",
+      "transcript": "Takhle vypadá jeden špíz, my si uděláme tři. To z toho důvodu, že já budu mít dva. A když se podíváte na Jardu, tak tomu stačí jeden."
+    },
+    {
+      "name": "Jdeme do plichty",
+      "filename": "plichta.mp3",
+      "transcript": "Já to anuluju, víš proč? Není možný. Tohle je chuťově tak bombový, že jdeme do plichty."
+    },
+    {
+      "name": "Já jí říkám fialová",
+      "filename": "cibule-fialova.mp3",
+      "transcript": "Je zajímavý, tady se s Jardou rozcházíme, zatímco on říká té cibuli červená. Já jí říkám fialová."
+    },
+    {
+      "name": "Po 50 letech jsem to přiznal",
+      "filename": "po-padesati-letech.mp3",
+      "transcript": "Musím přiznat, Jirka mě přesvědčil, že není červená, že je fialová. Tak po 50 letech jsem to přiznal."
+    },
+    {
+      "name": "Měl česnek, nakrájel česnek",
+      "filename": "cesnek.mp3",
+      "transcript": "Tak jsem měl česnek, tak jsem tam nakrájel česnek."
+    },
+    {
+      "name": "Dršťky děda, já salát",
+      "filename": "drstky-deda.mp3",
+      "transcript": "Ne, dršťky děda, já salát."
+    },
+    {
+      "name": "Češi proti Havaji",
+      "filename": "cesi-proti-havaji.mp3",
+      "transcript": "Je to dobrý taky, když přijdou nějaký kamarádi. Představte si to, že třeba hrajeme hokej, Češi proti Havaji."
+    },
+    {
+      "name": "Takovej zlatej bod",
+      "filename": "zlatej-bod.mp3",
+      "transcript": "A teď tomu dodám takovej zlatej bod, a to je, že to na to nasypu."
+    },
+    {
+      "name": "Jako v Honolulu",
+      "filename": "honolulu.mp3",
+      "transcript": "Ten ananas na konci takhle pěkně tady po té rýži, tak jak jsou v Honolulu zvyklí."
+    },
+    {
+      "name": "Aglio olio peperonico",
+      "filename": "peperonico.mp3",
+      "transcript": "Toto, co vám teďka představím, tak se jmenuje aglio olio peperonico."
+    },
+    {
+      "name": "Zastavte se u Markéty",
+      "filename": "u-markety.mp3",
+      "transcript": "Až pojedete někdy okolo, zastavte se u Markéty, ona vám to udělá."
+    },
+    {
+      "name": "Až dietní den",
+      "filename": "dietni-den.mp3",
+      "transcript": "Máme to hotový. Měli jsme takový hezký, řekl bych, až dietní den."
+    },
+    {
+      "name": "Stáváme se amatéry",
+      "filename": "kdyz-prijdeme-domu.mp3",
+      "transcript": "Když přijdeme domů, i když jsme profesionálové, se stáváme amatéry."
     },
     {
       "name": "To tam potom slupnu",
@@ -41,11 +171,6 @@
       "name": "Od totálních amatérů",
       "filename": "totalni-amateri.mp3",
       "transcript": "Já jsem hodně dobrých receptů získal od totálních amatérů, rozumíš?"
-    },
-    {
-      "name": "Já budu mít dva",
-      "filename": "spizy.mp3",
-      "transcript": "Takhle vypadá jeden špíz, my si uděláme tři. To z toho důvodu, že já budu mít dva. A když se podíváte na Jardu, tak tomu stačí jeden."
     },
     {
       "name": "Vevnitř syrovo",
@@ -133,26 +258,6 @@
       "transcript": "Sám jsi to řekl, řekni to ještě jednou: vyhrál."
     },
     {
-      "name": "Já jí říkám fialová",
-      "filename": "cibule-fialova.mp3",
-      "transcript": "Je zajímavý, tady se s Jardou rozcházíme, zatímco on říká té cibuli červená. Já jí říkám fialová."
-    },
-    {
-      "name": "Za prvé musím a za druhý chci",
-      "filename": "musim-a-chci.mp3",
-      "transcript": "Já teda určitě ochutnám, protože za prvé musím a za druhý chci."
-    },
-    {
-      "name": "Měl česnek, nakrájel česnek",
-      "filename": "cesnek.mp3",
-      "transcript": "Tak jsem měl česnek, tak jsem tam nakrájel česnek."
-    },
-    {
-      "name": "Po 50 letech jsem to přiznal",
-      "filename": "po-padesati-letech.mp3",
-      "transcript": "Musím přiznat, Jirka mě přesvědčil, že není červená, že je fialová. Tak po 50 letech jsem to přiznal."
-    },
-    {
       "name": "Vyloženě smraďocha",
       "filename": "smradoch.mp3",
       "transcript": "A tadyhle mám ještě takovýhle kousek, už vyloženě smraďocha."
@@ -198,11 +303,6 @@
       "transcript": "Takhle jebneme nahoru, když to řeknu lidově."
     },
     {
-      "name": "Čimimuri, jo?",
-      "filename": "cimicuri.mp3",
-      "transcript": "A ty jsi to čimimuri, jo?"
-    },
-    {
       "name": "Už jsme v Čechách",
       "filename": "v-cechach.mp3",
       "transcript": "Už jsme doma, už jsme v Čechách. Z toho světa jsme se vrátili zpátky."
@@ -233,11 +333,6 @@
       "transcript": "To by mi zákazník už nezaplatil tohle. Tohle už se nedá zaplatit."
     },
     {
-      "name": "Jdeme do plichty",
-      "filename": "plichta.mp3",
-      "transcript": "Já to anuluju, víš proč? Není možný. Tohle je chuťově tak bombový, že jdeme do plichty."
-    },
-    {
       "name": "Jsi vítěz totálně",
       "filename": "vitez.mp3",
       "transcript": "Když mi pošleš 50 klientů, tak jsi vítěz totálně."
@@ -251,11 +346,6 @@
       "name": "Dršťky dle mého dědy",
       "filename": "drstky.mp3",
       "transcript": "Smažené dršťky s domácím bramborovo-houbovým salátem dle mého dědy ze starého Vsetína, přátelé."
-    },
-    {
-      "name": "Dršťky děda, já salát",
-      "filename": "drstky-deda.mp3",
-      "transcript": "Ne, dršťky děda, já salát."
     },
     {
       "name": "Já jsem tě varoval",
@@ -280,6 +370,28 @@
       "url": "https://www.youtube.com/watch?v=eL8fFOGu9d4"
     },
     {
+      "name": "Babicovy Dobroty – TOP Hlášky Jiří Babica",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=gQLfmhspJfQ"
+    },
+    {
+      "name": "Babica vaří Ratatouille",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=qY4sK9rWoFY"
+    },
+    {
+      "name": "Babicova památná věta: Když nemáte houby, tak tam dejte žampiony",
+      "source": "Praha TV",
+      "year": 2025,
+      "url": "https://www.youtube.com/watch?v=ChJ18WNwjLg"
+    },
+    {
+      "name": "Babica vs. Pohlreich: Jak to bylo?",
+      "source": "Refresher",
+      "year": 2023,
+      "url": "https://www.youtube.com/watch?v=3BYDWcRM5jY"
+    },
+    {
       "name": "Mrkev Petržel Cerel",
       "source": "YouTube",
       "url": "https://www.youtube.com/@mrkevpetrzelcerel1074"
@@ -296,6 +408,21 @@
     }
   ],
   "lyrics": [
+    "– Je to dobrý taky, když přijdou nějaký kamarádi. Představte si to, že třeba hrajeme hokej, Češi proti Havaji.",
+    "– Vůbec není kam pospíchat, tvrdý játro není tak dobrý jako měkký játro.",
+    "– Jmenuje se to kološvárský zelí, luxusní jídlo. Kološvárský zelí, známý hlavně na Kološvársku. Asi, já tam nebyl, ani nevím, jestli to existuje, ale bude to něco maďarskýho.",
+    "– A teď tomu dodám takovej zlatej bod, a to je, že to na to nasypu.",
+    "– Já vždycky říkám, smažíme tak dlouho, až je to smažený.",
+    "– Ten ananas na konci takhle pěkně tady po té rýži, tak jak jsou v Honolulu zvyklí.",
+    "– Toto, co vám teďka představím, tak se jmenuje aglio olio peperonico.",
+    "– Až pojedete někdy okolo, zastavte se u Markéty, ona vám to udělá.",
+    "– Máme to hotový. Měli jsme takový hezký, řekl bych, až dietní den.",
+    "– Mám tady houby.",
+    "– Si koukám, taky byly na houbách?",
+    "– No tak když jsou, tak jsou. Když nejsou, tak nejsou.",
+    "– Dneska si tady spolu připravíme francouzskou zeleninu, a to bude ratatule.",
+    "– A když nebudete mít žádné houby, tak tam kupte si žampiony. A pak mě napadlo, když nebudete mít žádné houby, žampiony, tak tam nedávejte nic.",
+    "– Až se stalo dneska, jako si lidi ze mě dělají srandu: „Když nemáš kečup, dej tam hořčici.“ No kdo to řekl?",
     "– Když přijdeme domů, i když jsme profesionálové, se stáváme amatéry.",
     "– Mrkev, petržel, cerel.",
     "– To tam já potom slupnu.",
