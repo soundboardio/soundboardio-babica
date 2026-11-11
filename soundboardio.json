@@ -53,6 +53,11 @@
       "transcript": "Mrkev, petržel, cerel."
     },
     {
+      "name": "Poej se na to, Jirko",
+      "filename": "poej-se-na-to-jirko.mp3",
+      "transcript": "Poej se na to, Jirko."
+    },
+    {
       "name": "A to bude ratatule",
       "filename": "ratatule.mp3",
       "transcript": "Dneska si tady spolu připravíme francouzskou zeleninu, a to bude ratatule."
@@ -96,6 +101,31 @@
       "name": "Takovýhle turbo",
       "filename": "turbo.mp3",
       "transcript": "Vememe si takovýhle turbo."
+    },
+    {
+      "name": "Hlavně nežrat",
+      "filename": "hlavne-nezrat.mp3",
+      "transcript": "Jirko, představ si, co mi řekl jeden doktor z velmi známé pražské nemocnice. Říkám mu, jak mám zhubnout. On řekl krásnou větu: hlavně nežrat. Nežrat. No a co když je to tvoje profese? To je problém, víš, kamaráde."
+    },
+    {
+      "name": "Na ty papeže a dobrá jídla",
+      "filename": "papeze.mp3",
+      "transcript": "Na ty papeže a na ty dobrá jídla!"
+    },
+    {
+      "name": "Plešouna ne, my se bojíme",
+      "filename": "plesouna.mp3",
+      "transcript": "Plešouna ne, my se bojíme. To není to, ale Jirko, podle tebe se dá vařit."
+    },
+    {
+      "name": "Mokrý vrata",
+      "filename": "mokry-vrata.mp3",
+      "transcript": "Přátelé, přijde nám vymrzlej, unavenej lyžař. A Jirko, já mu připravím krásný nápoj, já tomu říkám mokrý vrata."
+    },
+    {
+      "name": "Glanc",
+      "filename": "glanc.mp3",
+      "transcript": "Glanc, to je, když máte papriku a zbyde vám někde tuk. Já si ho sleju a na finále nahoru si to pouze takhle pokápnu, aby bylo vidět, že to bylo z dobrýho materiálu."
     },
     {
       "name": "Za prvé musím a za druhý chci",
@@ -168,14 +198,9 @@
       "transcript": "Když přijdeme domů, i když jsme profesionálové, se stáváme amatéry."
     },
     {
-      "name": "To tam potom slupnu",
-      "filename": "slupnu.mp3",
-      "transcript": "To tam já potom slupnu."
-    },
-    {
       "name": "Tak tě to vzrušuje",
       "filename": "vzrusuje.mp3",
-      "transcript": "Když tě vidí, jak to mačkáš, tak tě to vzrušuje."
+      "transcript": "Když tě vidím, jak to mačkáš, tak tě to vzrušuje."
     },
     {
       "name": "Od totálních amatérů",
@@ -223,11 +248,6 @@
       "transcript": "Jarda vyhrál s tím svým zatraceným vejcem."
     },
     {
-      "name": "Tam jsou taky chlapi",
-      "filename": "madarsky-recept.mp3",
-      "transcript": "Je to samozřejmě maďarský recept. Tam jsou taky chlapi. Já jsem tam byl."
-    },
-    {
       "name": "To není dřina, je to zábava",
       "filename": "drina.mp3",
       "transcript": "To není dřina, je to zábava."
@@ -236,11 +256,6 @@
       "name": "Bez paličky",
       "filename": "bez-palicky.mp3",
       "transcript": "Nepotřebujeme ani paličku žádnou. Bez paličky."
-    },
-    {
-      "name": "To je zcela nemožné",
-      "filename": "nemuzete-pokazit.mp3",
-      "transcript": "Výhoda tady na tom receptu je, že vlastně ho nemůžete v žádném případě pokazit. To je zcela nemožné."
     },
     {
       "name": "Nic jsme nedělali",
@@ -263,11 +278,6 @@
       "transcript": "Tam tomu říkají šanyuka, nebo šakšuka, tak nějak podobně."
     },
     {
-      "name": "Řekni to ještě jednou: vyhrál",
-      "filename": "vyhral.mp3",
-      "transcript": "Sám jsi to řekl, řekni to ještě jednou: vyhrál."
-    },
-    {
       "name": "Vyloženě smraďocha",
       "filename": "smradoch.mp3",
       "transcript": "A tadyhle mám ještě takovýhle kousek, už vyloženě smraďocha."
@@ -276,11 +286,6 @@
       "name": "Křen do kolečka",
       "filename": "kren.mp3",
       "transcript": "A křen se strouhá zásadně pořád do kolečka."
-    },
-    {
-      "name": "Králík je široký téma",
-      "filename": "kralik.mp3",
-      "transcript": "A samozřejmě králík je široký téma."
     },
     {
       "name": "Jako když honíme vrtulku",
@@ -320,17 +325,12 @@
     {
       "name": "Půjčím si tvůj nůž",
       "filename": "tvuj-nuz.mp3",
-      "transcript": "Ty říkáš lepší nůž, půjčím si tvůj nůž."
+      "transcript": "Neříkej lepší nůž, půjčím si tvůj nůž."
     },
     {
       "name": "Ty máš taky špenát?",
       "filename": "spenat.mp3",
       "transcript": "Ty máš taky špenát, jo?"
-    },
-    {
-      "name": "Neblbni se špenátem",
-      "filename": "dva-spenaty.mp3",
-      "transcript": "Ty jsi dělal špenáty. Neblbni mi tady se špenátem, člověče."
     },
     {
       "name": "To tam musí být",
@@ -348,9 +348,9 @@
       "transcript": "Když mi pošleš 50 klientů, tak jsi vítěz totálně."
     },
     {
-      "name": "Proč to takhle rozlípáš?",
-      "filename": "rozlejpas.mp3",
-      "transcript": "A proč ty mi vždycky to jídlo takhle rozlípáš, člověče?"
+      "name": "Proč to takhle rozrejpeš?",
+      "filename": "rozrejpes.mp3",
+      "transcript": "A proč ty mi vždycky to jídlo takhle rozrejpeš, člověče?"
     },
     {
       "name": "Dršťky dle mého dědy",
@@ -365,7 +365,7 @@
     {
       "name": "K tomu dobré pivínko",
       "filename": "pivinko.mp3",
-      "transcript": "K tomu by bylo dobré pivínko. Doufám, že se ho dočkám i já."
+      "transcript": "K tomu samozřejmě bylo dobré pivínko. Doufám, že se ho dočkám i já."
     },
     {
       "name": "Musíte do toho plácnout",
@@ -388,6 +388,11 @@
       "name": "Babica vaří Ratatouille",
       "source": "YouTube",
       "url": "https://www.youtube.com/watch?v=qY4sK9rWoFY"
+    },
+    {
+      "name": "Babica VS Sapík",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/@babicavssapik8805"
     },
     {
       "name": "Babicova památná věta: Když nemáte houby, tak tam dejte žampiony",
@@ -429,7 +434,7 @@
     "– Až pojedete někdy okolo, zastavte se u Markéty, ona vám to udělá.",
     "– Máme to hotový. Měli jsme takový hezký, řekl bych, až dietní den.",
     "– Mám tady houby.",
-    "– Si koukám, taky byly na houbách?",
+    "– Ty jsi koukám taky byl na houbách?",
     "– No tak když jsou, tak jsou. Když nejsou, tak nejsou.",
     "– Dneska si tady spolu připravíme francouzskou zeleninu, a to bude ratatule.",
     "– A když nebudete mít žádné houby, tak tam kupte si žampiony. A pak mě napadlo, když nebudete mít žádné houby, žampiony, tak tam nedávejte nic.",
@@ -437,7 +442,7 @@
     "– Když přijdeme domů, i když jsme profesionálové, se stáváme amatéry.",
     "– Mrkev, petržel, cerel.",
     "– To tam já potom slupnu.",
-    "– Když tě vidí, jak to mačkáš, tak tě to vzrušuje.",
+    "– Když tě vidím, jak to mačkáš, tak tě to vzrušuje.",
     "– Já jsem hodně dobrých receptů získal od totálních amatérů, rozumíš?",
     "– Takhle vypadá jeden špíz, my si uděláme tři. To z toho důvodu, že já budu mít dva. A když se podíváte na Jardu, tak tomu stačí jeden.",
     "– Zezhora opečeno, vevnitř syrovo. A drůbež syrová není dobrá.",
@@ -480,7 +485,7 @@
     "– Čimičuri, dobrý.",
     "– Čimičuri.",
     "– Už jsme doma, už jsme v Čechách. Z toho světa jsme se vrátili zpátky.",
-    "– Ty říkáš lepší nůž, půjčím si tvůj nůž.",
+    "– Neříkej lepší nůž, půjčím si tvůj nůž.",
     "– Půjčím si tvůj nůž.",
     "– Ty máš taky špenát, jo?",
     "– Taky špenát.",
@@ -496,13 +501,19 @@
     "– Takže dneska vyhrál Jarda, gratuluju.",
     "– Já to anuluju, víš proč? Není možný. Tohle je chuťově tak bombový, že jdeme do plichty.",
     "– Když mi pošleš 50 klientů, tak jsi vítěz totálně.",
-    "– A proč ty mi vždycky to jídlo takhle rozlípáš, člověče?",
+    "– A proč ty mi vždycky to jídlo takhle rozrejpeš, člověče?",
     "– Smažené dršťky s domácím bramborovo-houbovým salátem dle mého dědy ze starého Vsetína, přátelé.",
     "– Počkej, říkal jsi děda, tak jak je to teda?",
     "– Ne, dršťky děda, já salát.",
     "– Horký, viď?",
     "– No jo, jak sis to udělal, takový to máš. Já jsem tě varoval.",
-    "– K tomu by bylo dobré pivínko. Doufám, že se ho dočkám i já.",
-    "– A musíte do toho taky takhle plácnout."
+    "– K tomu samozřejmě bylo dobré pivínko. Doufám, že se ho dočkám i já.",
+    "– A musíte do toho taky takhle plácnout.",
+    "– Poej se na to, Jirko.",
+    "– Jirko, představ si, co mi řekl jeden doktor z velmi známé pražské nemocnice. Říkám mu, jak mám zhubnout. On řekl krásnou větu: hlavně nežrat. Nežrat. No a co když je to tvoje profese? To je problém, víš, kamaráde.",
+    "– Na ty papeže a na ty dobrá jídla!",
+    "– Plešouna ne, my se bojíme. To není to, ale Jirko, podle tebe se dá vařit.",
+    "– Přátelé, přijde nám vymrzlej, unavenej lyžař. A Jirko, já mu připravím krásný nápoj, já tomu říkám mokrý vrata.",
+    "– Glanc, to je, když máte papriku a zbyde vám někde tuk. Já si ho sleju a na finále nahoru si to pouze takhle pokápnu, aby bylo vidět, že to bylo z dobrýho materiálu."
   ]
 }
