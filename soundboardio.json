@@ -6,6 +6,7 @@
     "Jiří Babica vařil v Babicových dobrotách na Nově a s Jaroslavem Sapíkem v pořadu Babica vs. Sapík na TV Barrandov.",
     "Babicovy dobroty běžely v letech 2008–2014. Nejslavnější z nich je rada k houbové omáčce: kdo nemá žádné houby, ať tam nedává vůbec žádné houby. Podle Babici ji ale vytrhl střih z kontextu a „když nemáš kečup, dej tam hořčici“ prý nikdy neřekl.",
     "Kulinářská show Babica vs. Sapík se vysílala o víkendech od září 2015 do roku 2016. Oba kuchaři prošli pražským hotelem Ambassador, Sapík to tam dotáhl na šéfkuchaře a od roku 1992 vede restauraci U Sapíků v Klokočné.",
+    "Od roku 2020 vaří na vlastním YouTube kanálu Babicova televize, kde natočil i sérii Ich bin ein Gamer.",
     "Babica tvrdí, že červená cibule je fialová, a Sapík to po padesáti letech uznal."
   ],
   "author": {
@@ -46,6 +47,11 @@
       "name": "Čimimuri",
       "filename": "cimicuri.mp3",
       "transcript": "A ty jsi to čimimuri, jo?"
+    },
+    {
+      "name": "Ich bin ein Gamer!",
+      "filename": "ich-bin-ein-gamer.mp3",
+      "transcript": "Ich bin ein Gamer! Ich bin ein Gamer! Ich bin ein Gamer!"
     },
     {
       "name": "Mrkev, petržel, cerel",
@@ -395,6 +401,12 @@
       "url": "https://www.youtube.com/@babicavssapik8805"
     },
     {
+      "name": "Ich bin ein Gamer",
+      "source": "Babicova televize",
+      "year": 2020,
+      "url": "https://www.youtube.com/watch?v=GURIcbVzjDc"
+    },
+    {
       "name": "Babicova památná věta: Když nemáte houby, tak tam dejte žampiony",
       "source": "Praha TV",
       "year": 2025,
@@ -514,6 +526,8 @@
     "– Na ty papeže a na ty dobrá jídla!",
     "– Plešouna ne, my se bojíme. To není to, ale Jirko, podle tebe se dá vařit.",
     "– Přátelé, přijde nám vymrzlej, unavenej lyžař. A Jirko, já mu připravím krásný nápoj, já tomu říkám mokrý vrata.",
-    "– Glanc, to je, když máte papriku a zbyde vám někde tuk. Já si ho sleju a na finále nahoru si to pouze takhle pokápnu, aby bylo vidět, že to bylo z dobrýho materiálu."
+    "– Glanc, to je, když máte papriku a zbyde vám někde tuk. Já si ho sleju a na finále nahoru si to pouze takhle pokápnu, aby bylo vidět, že to bylo z dobrýho materiálu.",
+    "– Ich bin ein Gamer! Ich bin ein Gamer! Ich bin ein Gamer!",
+    "– Jmenuji se Jirka Babica, jestli jste zapomněli."
   ]
 }
