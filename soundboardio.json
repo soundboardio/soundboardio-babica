@@ -1,0 +1,369 @@
+{
+  "name": "Babica vs. Sapík",
+  "shortName": "Babica Sapík",
+  "description": "Mrkev, petržel, cerel.",
+  "story": [
+    "Jiří Babica a Jaroslav Sapík spolu vařili na TV Barrandov.",
+    "Jejich kulinářská show Babica vs. Sapík se vysílala o víkendech od září 2015 do roku 2016.",
+    "Oba prošli pražským hotelem Ambassador. Sapík to tam dotáhl na šéfkuchaře a od roku 1992 vede restauraci U Sapíků v Klokočné, Babica předtím vařil Babicovy dobroty na Nově.",
+    "Babica tvrdí, že červená cibule je fialová, a Sapík to po padesáti letech uznal."
+  ],
+  "author": {
+    "name": "Sám Život",
+    "url": "https://www.youtube.com/watch?v=eL8fFOGu9d4"
+  },
+  "lang": "cs",
+  "color": "#C62828",
+  "version": "1.0.0",
+  "rootUrl": "sounds/",
+  "tiles": [
+    {
+      "name": "Stáváme se amatéry",
+      "filename": "kdyz-prijdeme-domu.mp3",
+      "transcript": "Když přijdeme domů, i když jsme profesionálové, se stáváme amatéry."
+    },
+    {
+      "name": "Mrkev, petržel, cerel",
+      "filename": "mrkev-petrzel-cerel.mp3",
+      "transcript": "Mrkev, petržel, cerel."
+    },
+    {
+      "name": "To tam potom slupnu",
+      "filename": "slupnu.mp3",
+      "transcript": "To tam já potom slupnu."
+    },
+    {
+      "name": "Tak tě to vzrušuje",
+      "filename": "vzrusuje.mp3",
+      "transcript": "Když tě vidí, jak to mačkáš, tak tě to vzrušuje."
+    },
+    {
+      "name": "Od totálních amatérů",
+      "filename": "totalni-amateri.mp3",
+      "transcript": "Já jsem hodně dobrých receptů získal od totálních amatérů, rozumíš?"
+    },
+    {
+      "name": "Já budu mít dva",
+      "filename": "spizy.mp3",
+      "transcript": "Takhle vypadá jeden špíz, my si uděláme tři. To z toho důvodu, že já budu mít dva. A když se podíváte na Jardu, tak tomu stačí jeden."
+    },
+    {
+      "name": "Vevnitř syrovo",
+      "filename": "syrovo.mp3",
+      "transcript": "Zezhora opečeno, vevnitř syrovo. A drůbež syrová není dobrá."
+    },
+    {
+      "name": "Krásně si to zazelenáme",
+      "filename": "leto.mp3",
+      "transcript": "Krásně si to zazelenáme, aby nám to připomínalo léto."
+    },
+    {
+      "name": "Nevadí, pozveš jinou",
+      "filename": "pozves-jinou.mp3",
+      "transcript": "Nevadí, pozveš jinou. Pozveš jinou."
+    },
+    {
+      "name": "Pozval hned čtyři dámy",
+      "filename": "ctyri-damy.mp3",
+      "transcript": "Já jsem si pozval hned čtyři dámy."
+    },
+    {
+      "name": "Jenom jako vánek",
+      "filename": "vanek.mp3",
+      "transcript": "Ten česnek jako kolem toho salátu jenom jako vánek, když prochází."
+    },
+    {
+      "name": "To je pergamen, jo?",
+      "filename": "pergamen.mp3",
+      "transcript": "A ten papír, to je pergamen, jo?"
+    },
+    {
+      "name": "Ty papričky prostě mám rád",
+      "filename": "papricky.mp3",
+      "transcript": "Ty papričky prostě mám rád. Takže jsem ti je tam šoupnul."
+    },
+    {
+      "name": "Zatracené vejce",
+      "filename": "zatracene-vejce.mp3",
+      "transcript": "Jarda vyhrál s tím svým zatraceným vejcem."
+    },
+    {
+      "name": "Tam jsou taky chlapi",
+      "filename": "madarsky-recept.mp3",
+      "transcript": "Je to samozřejmě maďarský recept. Tam jsou taky chlapi. Já jsem tam byl."
+    },
+    {
+      "name": "To není dřina, je to zábava",
+      "filename": "drina.mp3",
+      "transcript": "To není dřina, je to zábava."
+    },
+    {
+      "name": "Bez paličky",
+      "filename": "bez-palicky.mp3",
+      "transcript": "Nepotřebujeme ani paličku žádnou. Bez paličky."
+    },
+    {
+      "name": "To je zcela nemožné",
+      "filename": "nemuzete-pokazit.mp3",
+      "transcript": "Výhoda tady na tom receptu je, že vlastně ho nemůžete v žádném případě pokazit. To je zcela nemožné."
+    },
+    {
+      "name": "Nic jsme nedělali",
+      "filename": "nic-jsme-nedelali.mp3",
+      "transcript": "Jak jsem ho tam šoupnul, tak ho vytahuji. Vůbec jsme si na to nekoukali. Je to pravda, nic jsme nedělali."
+    },
+    {
+      "name": "Překvapení veliké",
+      "filename": "prekvapeni.mp3",
+      "transcript": "A teďka teda překvapení veliké, co tam vlastně najdeme."
+    },
+    {
+      "name": "Je totálně žravý",
+      "filename": "totalne-zravy.mp3",
+      "transcript": "Je totálně žravý, rozumíš?"
+    },
+    {
+      "name": "Šanyuka, nebo šakšuka",
+      "filename": "saksuka.mp3",
+      "transcript": "Tam tomu říkají šanyuka, nebo šakšuka, tak nějak podobně."
+    },
+    {
+      "name": "Řekni to ještě jednou: vyhrál",
+      "filename": "vyhral.mp3",
+      "transcript": "Sám jsi to řekl, řekni to ještě jednou: vyhrál."
+    },
+    {
+      "name": "Já jí říkám fialová",
+      "filename": "cibule-fialova.mp3",
+      "transcript": "Je zajímavý, tady se s Jardou rozcházíme, zatímco on říká té cibuli červená. Já jí říkám fialová."
+    },
+    {
+      "name": "Za prvé musím a za druhý chci",
+      "filename": "musim-a-chci.mp3",
+      "transcript": "Já teda určitě ochutnám, protože za prvé musím a za druhý chci."
+    },
+    {
+      "name": "Měl česnek, nakrájel česnek",
+      "filename": "cesnek.mp3",
+      "transcript": "Tak jsem měl česnek, tak jsem tam nakrájel česnek."
+    },
+    {
+      "name": "Po 50 letech jsem to přiznal",
+      "filename": "po-padesati-letech.mp3",
+      "transcript": "Musím přiznat, Jirka mě přesvědčil, že není červená, že je fialová. Tak po 50 letech jsem to přiznal."
+    },
+    {
+      "name": "Vyloženě smraďocha",
+      "filename": "smradoch.mp3",
+      "transcript": "A tadyhle mám ještě takovýhle kousek, už vyloženě smraďocha."
+    },
+    {
+      "name": "Křen do kolečka",
+      "filename": "kren.mp3",
+      "transcript": "A křen se strouhá zásadně pořád do kolečka."
+    },
+    {
+      "name": "Králík je široký téma",
+      "filename": "kralik.mp3",
+      "transcript": "A samozřejmě králík je široký téma."
+    },
+    {
+      "name": "Jako když honíme vrtulku",
+      "filename": "vrtulka.mp3",
+      "transcript": "A teď si to jenom takhle vememe krásně a jako když honíme vrtulku, takhle to omotáme."
+    },
+    {
+      "name": "Absolutní síla",
+      "filename": "absolutni-sila.mp3",
+      "transcript": "To je polívka, která nám dá absolutní sílu."
+    },
+    {
+      "name": "Silně překvapil. Tvrdě.",
+      "filename": "tvrde.mp3",
+      "transcript": "Tento recept mě silně překvapil. Tvrdě."
+    },
+    {
+      "name": "Byla to vážná ženská",
+      "filename": "princezna-diana.mp3",
+      "transcript": "A takhle se to podávalo princezně Dianě. Dokonce si to dala dvakrát, byla to vážná ženská."
+    },
+    {
+      "name": "To by byl blázen",
+      "filename": "blazen.mp3",
+      "transcript": "Kdo nemá rád pálivý, tak samozřejmě nedává. To by byl blázen."
+    },
+    {
+      "name": "Takhle jebneme nahoru",
+      "filename": "jebneme.mp3",
+      "transcript": "Takhle jebneme nahoru, když to řeknu lidově."
+    },
+    {
+      "name": "Čimimuri, jo?",
+      "filename": "cimicuri.mp3",
+      "transcript": "A ty jsi to čimimuri, jo?"
+    },
+    {
+      "name": "Už jsme v Čechách",
+      "filename": "v-cechach.mp3",
+      "transcript": "Už jsme doma, už jsme v Čechách. Z toho světa jsme se vrátili zpátky."
+    },
+    {
+      "name": "Půjčím si tvůj nůž",
+      "filename": "tvuj-nuz.mp3",
+      "transcript": "Ty říkáš lepší nůž, půjčím si tvůj nůž."
+    },
+    {
+      "name": "Ty máš taky špenát?",
+      "filename": "spenat.mp3",
+      "transcript": "Ty máš taky špenát, jo?"
+    },
+    {
+      "name": "Neblbni se špenátem",
+      "filename": "dva-spenaty.mp3",
+      "transcript": "Ty jsi dělal špenáty. Neblbni mi tady se špenátem, člověče."
+    },
+    {
+      "name": "To tam musí být",
+      "filename": "musi-tam-byt.mp3",
+      "transcript": "Ať to tam je. To tam musí být."
+    },
+    {
+      "name": "Tohle se nedá zaplatit",
+      "filename": "nezaplatil.mp3",
+      "transcript": "To by mi zákazník už nezaplatil tohle. Tohle už se nedá zaplatit."
+    },
+    {
+      "name": "Jdeme do plichty",
+      "filename": "plichta.mp3",
+      "transcript": "Já to anuluju, víš proč? Není možný. Tohle je chuťově tak bombový, že jdeme do plichty."
+    },
+    {
+      "name": "Jsi vítěz totálně",
+      "filename": "vitez.mp3",
+      "transcript": "Když mi pošleš 50 klientů, tak jsi vítěz totálně."
+    },
+    {
+      "name": "Proč to takhle rozlípáš?",
+      "filename": "rozlejpas.mp3",
+      "transcript": "A proč ty mi vždycky to jídlo takhle rozlípáš, člověče?"
+    },
+    {
+      "name": "Dršťky dle mého dědy",
+      "filename": "drstky.mp3",
+      "transcript": "Smažené dršťky s domácím bramborovo-houbovým salátem dle mého dědy ze starého Vsetína, přátelé."
+    },
+    {
+      "name": "Dršťky děda, já salát",
+      "filename": "drstky-deda.mp3",
+      "transcript": "Ne, dršťky děda, já salát."
+    },
+    {
+      "name": "Já jsem tě varoval",
+      "filename": "varoval.mp3",
+      "transcript": "No jo, jak sis to udělal, takový to máš. Já jsem tě varoval."
+    },
+    {
+      "name": "K tomu dobré pivínko",
+      "filename": "pivinko.mp3",
+      "transcript": "K tomu by bylo dobré pivínko. Doufám, že se ho dočkám i já."
+    },
+    {
+      "name": "Musíte do toho plácnout",
+      "filename": "placnout.mp3",
+      "transcript": "A musíte do toho taky takhle plácnout."
+    }
+  ],
+  "references": [
+    {
+      "name": "Babica vs Sapík hlášky, které denně používám 1",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=eL8fFOGu9d4"
+    },
+    {
+      "name": "Mrkev Petržel Cerel",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/@mrkevpetrzelcerel1074"
+    },
+    {
+      "name": "Jiří Babica",
+      "source": "Wikipedie",
+      "url": "https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Babica"
+    },
+    {
+      "name": "Jaroslav Sapík",
+      "source": "Wikipedie",
+      "url": "https://cs.wikipedia.org/wiki/Jaroslav_Sap%C3%ADk"
+    }
+  ],
+  "lyrics": [
+    "– Když přijdeme domů, i když jsme profesionálové, se stáváme amatéry.",
+    "– Mrkev, petržel, cerel.",
+    "– To tam já potom slupnu.",
+    "– Když tě vidí, jak to mačkáš, tak tě to vzrušuje.",
+    "– Já jsem hodně dobrých receptů získal od totálních amatérů, rozumíš?",
+    "– Takhle vypadá jeden špíz, my si uděláme tři. To z toho důvodu, že já budu mít dva. A když se podíváte na Jardu, tak tomu stačí jeden.",
+    "– Zezhora opečeno, vevnitř syrovo. A drůbež syrová není dobrá.",
+    "– Krásně si to zazelenáme, aby nám to připomínalo léto.",
+    "– Blbý, když ti zavolá a řekne, že nemůže, že jo?",
+    "– Nevadí, pozveš jinou. Pozveš jinou.",
+    "– Já jsem si pozval hned čtyři dámy.",
+    "– Ten česnek jako kolem toho salátu jenom jako vánek, když prochází.",
+    "– A ten papír, to je pergamen, jo?",
+    "– To je, prosím tě, pečicí papír.",
+    "– Ty papričky prostě mám rád. Takže jsem ti je tam šoupnul.",
+    "– Jarda vyhrál s tím svým zatraceným vejcem.",
+    "– Je to samozřejmě maďarský recept. Tam jsou taky chlapi. Já jsem tam byl.",
+    "– Tak je to dřina.",
+    "– To není dřina, je to zábava.",
+    "– Nepotřebujeme ani paličku žádnou. Bez paličky.",
+    "– Výhoda tady na tom receptu je, že vlastně ho nemůžete v žádném případě pokazit. To je zcela nemožné.",
+    "– Jak jsem ho tam šoupnul, tak ho vytahuji. Vůbec jsme si na to nekoukali. Je to pravda, nic jsme nedělali.",
+    "– A teďka teda překvapení veliké, co tam vlastně najdeme.",
+    "– Je totálně žravý, rozumíš?",
+    "– Tam tomu říkají šanyuka, nebo šakšuka, tak nějak podobně.",
+    "– Mně se to dneska líbilo, už jenom z toho pohledu jsem vyhrál.",
+    "– Sám jsi to řekl, řekni to ještě jednou: vyhrál.",
+    "– Je zajímavý, tady se s Jardou rozcházíme, zatímco on říká té cibuli červená. Já jí říkám fialová.",
+    "– Já teda určitě ochutnám, protože za prvé musím a za druhý chci.",
+    "– Tak jsem měl česnek, tak jsem tam nakrájel česnek.",
+    "– Musím přiznat, Jirka mě přesvědčil, že není červená, že je fialová. Tak po 50 letech jsem to přiznal.",
+    "– A tadyhle mám ještě takovýhle kousek, už vyloženě smraďocha.",
+    "– A křen se strouhá zásadně pořád do kolečka.",
+    "– A samozřejmě králík je široký téma.",
+    "– A teď si to jenom takhle vememe krásně a jako když honíme vrtulku, takhle to omotáme.",
+    "– To je polívka, která nám dá absolutní sílu.",
+    "– Tento recept mě silně překvapil. Tvrdě.",
+    "– A takhle se to podávalo princezně Dianě. Dokonce si to dala dvakrát, byla to vážná ženská.",
+    "– Kdo nemá rád pálivý, tak samozřejmě nedává. To by byl blázen.",
+    "– Takhle jebneme nahoru, když to řeknu lidově.",
+    "– A ty jsi to čimimuri, jo?",
+    "– Čimičuri.",
+    "– Čimičuri, dobrý.",
+    "– Čimičuri.",
+    "– Už jsme doma, už jsme v Čechách. Z toho světa jsme se vrátili zpátky.",
+    "– Ty říkáš lepší nůž, půjčím si tvůj nůž.",
+    "– Půjčím si tvůj nůž.",
+    "– Ty máš taky špenát, jo?",
+    "– Taky špenát.",
+    "– To jsi mi neřekl? Tak já ho tam nedám.",
+    "– Ho tam nedávej.",
+    "– Nedám ho tam.",
+    "– Vždyť děláme dva špenáty, ne?",
+    "– Já jsem ale…",
+    "– Ty jsi dělal špenáty. Neblbni mi tady se špenátem, člověče.",
+    "– Ať to tam je. To tam musí být.",
+    "– To by mi zákazník už nezaplatil tohle. Tohle už se nedá zaplatit.",
+    "– Už se nedá zaplatit.",
+    "– Takže dneska vyhrál Jarda, gratuluju.",
+    "– Já to anuluju, víš proč? Není možný. Tohle je chuťově tak bombový, že jdeme do plichty.",
+    "– Když mi pošleš 50 klientů, tak jsi vítěz totálně.",
+    "– A proč ty mi vždycky to jídlo takhle rozlípáš, člověče?",
+    "– Smažené dršťky s domácím bramborovo-houbovým salátem dle mého dědy ze starého Vsetína, přátelé.",
+    "– Počkej, říkal jsi děda, tak jak je to teda?",
+    "– Ne, dršťky děda, já salát.",
+    "– Horký, viď?",
+    "– No jo, jak sis to udělal, takový to máš. Já jsem tě varoval.",
+    "– K tomu by bylo dobré pivínko. Doufám, že se ho dočkám i já.",
+    "– A musíte do toho taky takhle plácnout."
+  ]
+}
